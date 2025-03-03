@@ -44,7 +44,7 @@ I am a **self-taught developer** and **technology enthusiast**. I specialize in 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 ### 📫 How to Reach Me?
-- 📩 **Email:** anthony@thonydev.com  
+- 📩 **Email:** anthonydfv17@gmail.com  
 - 💬 **Telegram:** [@thony7_d](https://t.me/thony7_d)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
