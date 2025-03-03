@@ -2,7 +2,7 @@
 <div id="user-content-toc" align="center">
   <ul>
     <summary align="center"><h1>Hola, soy Anthony Fajardo</h1></summary>
-    <h3 align="center">Desarrollador Web & Móvil | Ingeniero en Sistemas de Computación</h3>
+    <h3 align="center">Desarrollador de Software | Ingeniero en Sistemas de Computación</h3>
     <p align="center">
       <a href="https://github.com/antho72f" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/anthof27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
